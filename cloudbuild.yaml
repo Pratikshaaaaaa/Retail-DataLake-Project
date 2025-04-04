@@ -18,5 +18,5 @@ options:
 
 substitutions:
   _DAGS_DIRECTORY: "workflows/"
-  _DAGS_BUCKET: "retail_datalake_composer_bucket"
+  _DAGS_BUCKET: "us-central1-demo-composer-b04d46f5-bucket"
   _DATA_DIRECTORY: "data/"
