@@ -4,7 +4,7 @@ CREATE TABLE products (
     category_id INT,
     price DECIMAL(10,2),
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
-);
+);      
 
 CREATE TABLE categories (
     category_id INT PRIMARY KEY,
